@@ -11,7 +11,7 @@ export const metadata = {
     siteName: "My Shoe Company",
     images: [
       {
-        url: '/public/images/homepage.png', 
+        url: '/images/homepage.png', 
         width: 1200,
         height: 630,
         alt: 'A beautiful look of my website',
