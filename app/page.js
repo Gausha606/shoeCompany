@@ -9,6 +9,7 @@ export const metadata = {
     title: "The Shoe Company",
     description: "The Shoe Company - Custom Shoes for You",
     siteName: "My Shoe Company",
+    url: "https://theshoecompanynew.netlify.app",
     images: [
       {
         url: 'https://theshoecompanynew.netlify.app/images/homepage.png', 
@@ -25,7 +26,7 @@ export const metadata = {
     title: "The Shoe Company",
     images: [
       {
-        url: '/public/images/homepage.png', 
+        url: 'https://theshoecompanynew.netlify.app/images/homepage.png', 
         width: 1200,
         height: 630,
         alt: 'A beautiful illustration of my website',
